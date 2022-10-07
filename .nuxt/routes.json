@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/home/enrico/Desktop/enrico/dev_nuxt/agenda/agenda_inteligente/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_98d59750"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/enrico/Desktop/enrico/dev_nuxt/agenda/agenda_inteligente/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_35b42060"
+  }
+]
